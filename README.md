@@ -19,3 +19,15 @@ Caso Bob chegue em Oli primeiro, Bob vence.
 Oli só vence caso Rob e Bob se encontrem, causando uma briga entre os cachorros e permitindo a fuga do coelho.
 
 _______________________________________________________________________________________________________________________________________________________
+
+
+2) Cifra-de-Cesar
+A chave é o número de vezes que o indíce atual irá se mover até o novo índice dentro do alfabeto. A criptografia é feita apenas em letras, e mantendo sua forma (maiúsculo/minusculo) original.
+
+EXEMPLO
+
+Chave/rotação: 2
+
+Mensagem: Oi!
+
+Saída: Qk!
