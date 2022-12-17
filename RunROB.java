@@ -39,7 +39,7 @@ public class RunROB {
 
             if ((rexPosition > oliPosition)) {
                 rexPosition -= 1;
-                System.out.println("Rex: posicao " + r
+                System.out.println("Rex: posicao " + rexPosition);
             }
             if (bobPosition > oliPosition) {
                 bobPosition -= 1;
